@@ -1,6 +1,3 @@
-Absolutely! Here’s a **modern, feature-focused, GitHub-ready README** for your project. I’ve highlighted key parts, added badges, sections, and improved formatting for a sleek, professional look. You can copy-paste this directly into your repository:
-
-````markdown
 # ❄️ Rofi-Beats – Winter Frostline
 
 ![Rofi-Beats Banner](https://via.placeholder.com/800x200?text=Rofi-Beats+Winter+Frostline)
@@ -107,16 +104,3 @@ See the LICENSE file for full details.
 
 ```
 
-✅ This version:  
-- Highlights features clearly  
-- Adds modern “badges-style” sections  
-- Uses bold and emojis to guide the reader  
-- Has a clean, copy-paste-friendly structure  
-
-If you want, I can **also make a fully GitHub “shiny” version** with:  
-- Badges (build status, stars, license)  
-- GIF demo  
-- Collapsible sections for Installation & Usage  
-
-Do you want me to create that next?
-```
