@@ -1,9 +1,14 @@
 # ❄️ Rofi-Beats – Winter Frostline
 
 
+
 **Rofi-Beats** is a winter-themed, minimalist lo-fi launcher for [Rofi](https://github.com/davatorium/rofi), bringing cozy beats to your keyboard-driven workflow 🌨️🎧.
 
+
+
 ---
+
+![Rofi-Beats Screenshot](LOOK.jpg)
 
 ## 🌟 Features
 
@@ -16,7 +21,10 @@
 
 ---
 
+
+
 ## 📦 Requirements
+
 
 Before running Rofi-Beats, make sure the following are installed:
 
@@ -25,6 +33,8 @@ Before running Rofi-Beats, make sure the following are installed:
 sudo apt update
 sudo apt install rofi mpv mpv-mpris
 ````
+
+
 
 ### 2️⃣ yt-dlp (Official GitHub release)
 
@@ -37,6 +47,9 @@ yt-dlp --version
 ```
 
 ---
+
+
+
 
 ## 🛠️ Installation
 
@@ -51,6 +64,8 @@ cd ~/Rofi-Beats
 # Make binary executable
 chmod +x rofi-beats.x
 ```
+
+
 
 ---
 
@@ -71,6 +86,9 @@ chmod +x rofi-beats.x
    * **Shortcut key:** e.g., `F2`
 3. Enjoy lo-fi beats at a single keypress 🌨️🎶
 
+
+   
+
 ---
 
 ## ⚡ Support & Future Plans
@@ -82,6 +100,8 @@ chmod +x rofi-beats.x
 Your support helps Winter Frostline grow 🌨️
 
 ---
+
+
 
 ## 📄 License
 
