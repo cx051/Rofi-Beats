@@ -1,6 +1,5 @@
 # ❄️ Rofi-Beats – Winter Frostline
 
-![Rofi-Beats Banner](https://via.placeholder.com/800x200?text=Rofi-Beats+Winter+Frostline)
 
 **Rofi-Beats** is a winter-themed, minimalist lo-fi launcher for [Rofi](https://github.com/davatorium/rofi), bringing cozy beats to your keyboard-driven workflow 🌨️🎧.
 
@@ -100,7 +99,4 @@ See the LICENSE file for full details.
 
 **Created by:** cx051
 
-**Tip:** Use a dark Rofi theme, low screen brightness, and headphones for the best experience 🌙❄️
-
-```
 
