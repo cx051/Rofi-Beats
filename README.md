@@ -1,3 +1,4 @@
+#Rofi-Beats
 ❄️ Rofi Beats – Winter Frostline
 
 > A winter-themed lo-fi launcher for rofi
