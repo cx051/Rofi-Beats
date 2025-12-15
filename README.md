@@ -8,7 +8,7 @@
 
 ---
 
-![Rofi-Beats Screenshot](LOOK.jpg)
+![Rofi-Beats Screenshot](LOOK.png)
 
 ## 🌟 Features
 
