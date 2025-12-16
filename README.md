@@ -94,6 +94,15 @@ chmod +x rofi-beats.x
 3. Enjoy lo-fi beats at a single keypress 🌨️🎶
 
 
+
+## Shortcuts
+Here's a quick rundown of the shortcuts you can use:
+
+1. Esc Key: Just hit Esc to close the Rofi menu.
+2. Up/Down Arrow Keys: Use the up and down arrows to navigate.
+3. Your Custom Shortcut: Pressing your shortcut key will close the player.
+4. Gnome Shortcut (Optional): Feel free to use your default Gnome shortcut to pause or play if you'd like!
+
    
 
 ---
@@ -108,22 +117,11 @@ Your support helps Winter Frostline grow 🌨️
 
 ---
 
-
-
-## 📄 License
-
-Licensed under **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**
-
-* ✔ Credit required
-* ❌ No commercial use
-* ❌ No modification or redistribution
-
-See the LICENSE file for full details.
-
 ---
 
 ## ❄️ Credits
 
 **Created by:** cx051
+**Inspired by:** adi1090x
 
 
