@@ -122,6 +122,5 @@ Your support helps Winter Frostline grow 🌨️
 ## ❄️ Credits
 
 **Created by:** cx051
-**Inspired by:** adi1090x
 
 
