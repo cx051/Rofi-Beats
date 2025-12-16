@@ -17,7 +17,14 @@
 - ⌨️ **Fully keyboard-driven** – no mouse needed  
 - 🔒 **Compiled binary** for easy distribution  
 - 🎧 Uses **mpv** with **mpv-mpris** support  
-- 🌙 Perfect for late-night coding or study sessions  
+- 🌙 Perfect for late-night coding or study sessions
+
+  
+🎵 Lightweight Lo-fi Music Player
+
+- Minimal memory footprint: Uses only 70-100MB compared to Spotify's 600-700MB
+- Perfect for low-end systems: Optimized for machines with 4GB RAM or less
+- No lag, pure focus: Smooth performance without the bloat of streaming services 
 
 ---
 
