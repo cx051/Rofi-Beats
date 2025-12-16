@@ -76,7 +76,7 @@ chmod +x rofi-beats.x
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ### Run from Terminal
 
@@ -102,7 +102,7 @@ chmod +x rofi-beats.x
 
 * Multiple new **themes** in development
 * Workflow **enhancements** and **automation scripts**
-* Star ⭐ or buy me a coffee ☕ to support future updates
+* Star ⭐ to support future updates
 
 Your support helps Winter Frostline grow 🌨️
 
