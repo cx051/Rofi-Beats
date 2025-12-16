@@ -22,7 +22,7 @@ window {
     x-offset:                    0px;
     y-offset:                    0px;
     enabled:                     true;
-    border-radius:               20px;
+    border-radius:               18px;
     cursor:                      "default";
     background-color:            @background;
     children:                    [ "mainbox", "copyright-label" ];
@@ -83,7 +83,7 @@ mode-switcher{
     text-color:                  @foreground;
 }
 button {
-    width:                       45px;
+    width:                       46px;
     padding:                     12px;
     border-radius:               100%;
     background-color:            @background-alt;
@@ -167,12 +167,6 @@ textbox {
     text-color:                  @foreground;
     vertical-align:              0.5;
     horizontal-align:            0.0;
-}
-error-message {
-    padding:                     12px;
-    border-radius:               0px;
-    background-color:            @background;
-    text-color:                  @foreground;
 }
 copyright-label {
     enabled:                     true;
